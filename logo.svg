@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180">
+  <rect width="520" height="180" rx="42" fill="#f7efe5"/>
+  <g fill="none" stroke="#765541" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 116c-24 0-43-18-43-40 0-21 17-38 38-40 8-22 29-36 54-36 30 0 54 21 59 49 25 2 44 21 44 44 0 25-21 45-47 45H88z"/>
+  </g>
+  <text x="270" y="88" font-family="Georgia, serif" font-size="42" fill="#3f3027">cha.woominworld</text>
+  <text x="272" y="122" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="#8f735e">A FAN ARCHIVE</text>
+  <text x="474" y="58" font-size="28" fill="#765541">♡</text>
+</svg>
